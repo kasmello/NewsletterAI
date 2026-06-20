@@ -1,0 +1,3 @@
+python-dotenv
+crewai[anthropic]
+crewai_tools
