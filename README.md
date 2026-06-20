@@ -20,6 +20,7 @@ This project loads `CLAUDE_API_KEY` from a single `.env` file using `python-dote
 
    ```dotenv
    CLAUDE_API_KEY=your-claude-api-key
+   SERPER_API_KEY=your-serper-api-key
    ```
 
 4. Run the app:
